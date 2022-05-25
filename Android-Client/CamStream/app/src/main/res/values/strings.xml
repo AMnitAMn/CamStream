@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CamStream</string>
+    <string name="ip_address">IP Address</string>
+    <string name="port">192.168.1.13</string>
+    <string name="port1">Port</string>
+    <string name="_6666">6666</string>
+    <string name="change_camera">Change Camera</string>
+    <string name="change_aspect_ratio">Change Aspect Ratio</string>
+    <string name="connect">Connect</string>
+</resources>
